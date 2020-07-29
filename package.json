@@ -1,6 +1,6 @@
 {
   "name": "v-cut-reactive",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "在图片上定义响应式热点区域，可以关联事件",
   "main": "index.js",
   "directories": {
